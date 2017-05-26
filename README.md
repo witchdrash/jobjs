@@ -1,4 +1,4 @@
 jobjs
 =====
 
-Quick and dirty framework for running jobs in series
+Runs jobs in specified order and sequentially. Gets round NodeJS async by default. Maybe now be obsolete.
